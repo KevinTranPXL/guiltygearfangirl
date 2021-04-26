@@ -1,0 +1,41 @@
+*{
+
+}
+
+h3{
+
+}
+
+
+body{
+    background-image: url("img/pattern.png");
+}
+
+
+.container {
+/*
+ background-color: cornflowerblue;
+ */
+
+
+
+
+}
+
+.jumbotron{
+    background-image: url("img/evo.jpg");
+}
+
+
+.row{
+/*
+    background-color: purple;
+*/
+}
+
+.col{
+    /*
+     background-color: orange;
+     */
+
+}
